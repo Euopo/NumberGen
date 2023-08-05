@@ -1,2 +1,5 @@
 # NumberGen
-My personal number generator. I have a bot that constantly runs, generating a number between 1 and 100.
+##### Objective: Get the Highest or Lowest number (1 or 100)
+##### Total Time Running (Bot-Uptime): [y] [m] [d] [h]
+##### Time taken: [y] [m] [d] [h]
+
