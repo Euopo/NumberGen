@@ -6,4 +6,4 @@
 ----------------------------------------------------------
 ###### This is a personal experiemet of mine to just have some fun while I do other things on my Laptop.
 ###### The code will be made using .lua in Visual Studio Code since its the coding language I know the most about. 
-###### I probably wont be done with the backend codind part until probably Mid August for coding errors, etc
+###### I probably wont be done with the backend codind part until probably Mid August for coding errors, etc. I'll release the code once one of the numbers either hits 1, or 100. Only time will tell.
